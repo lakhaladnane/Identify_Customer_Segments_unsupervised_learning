@@ -8,7 +8,9 @@ This project requires **Python 2.7** and the following Python libraries installe
 - [NumPy](http://www.numpy.org/)
 - [Pandas](http://pandas.pydata.org)
 - [matplotlib](http://matplotlib.org/)
+- [seaborn](https://seaborn.pydata.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
+
 
 You will also need to have software installed to run and execute a [Jupyter Notebook](http://jupyter.org/index.html)
 
